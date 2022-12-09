@@ -1,5 +1,6 @@
-# mr-puppet
+# Mr Puppet
 Mr Puppet Animation System
+More info on the system can be found here: https://pasquale.cool/mr-puppet
 
 Documentation on Mr. Puppet coming soon but in the meantime here's the rough idea:
 - Hardware connects to Mac over USB

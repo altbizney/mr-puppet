@@ -1,4 +1,6 @@
 # Mr Puppet
+![image](https://user-images.githubusercontent.com/688842/206627815-e8c3aae5-aafd-48d3-9895-f5bc8ff37873.png)
+
 Mr Puppet Animation System
 More info on the system can be found here: https://pasquale.cool/mr-puppet
 
@@ -14,5 +16,7 @@ Documentation on Mr. Puppet coming soon but in the meantime here's the rough ide
 - [Mr Puppet Studio Unity project](https://github.com/altbizney/mr-puppet-studio)
 
 - [Puppets rigged for Maya and Unity](https://github.com/altbizney/puppets)
+
+- [Glove Software](https://github.com/altbizney/mr-puppet-glove)
 
 (Hardware layouts / models to come)

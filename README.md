@@ -12,4 +12,6 @@ Documentation on Mr. Puppet coming soon but in the meantime here's the rough ide
 
 - [Mr Puppet Studio Unity project](https://github.com/altbizney/mr-puppet-studio)
 
+- [Puppets rigged for Maya and Unity](https://github.com/altbizney/puppets)
+
 (Hardware layouts / models to come)

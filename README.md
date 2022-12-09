@@ -19,4 +19,4 @@ Documentation on Mr. Puppet coming soon but in the meantime here's the rough ide
 
 - [Glove Software](https://github.com/altbizney/mr-puppet-glove)
 
-(Hardware layouts / models to come)
+More to come!
